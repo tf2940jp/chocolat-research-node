@@ -101,7 +101,11 @@ Research purposes only.
 ---
 ## Public Dataset
 
-A free 7-day sample dataset is available on Hugging Face.
+The first public dataset from the Chocolat Research Project is available on Hugging Face.
 
-👉 https://huggingface.co/datasets/chocolat-research/chocolat-btc-market-state-dataset
+**BTC Market State Dataset (7-Day Sample)**
+
+https://huggingface.co/datasets/chocolat-research/chocolat-btc-market-state-dataset
+
+The full 90-day version will be released separately.
 © Chocolat Research Node
