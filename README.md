@@ -1,3 +1,8 @@
+> **Research Status**
+>
+> 🟢 Active Development
+>
+> **Platform:** Raspberry Pi 5 + Hailo-8L
 # Chocolat Research Node
 
 Experimental Financial Intelligence Research
