@@ -99,5 +99,9 @@ This repository does **not** provide investment advice, trading signals, or fina
 Research purposes only.
 
 ---
+## Public Dataset
 
+A free 7-day sample dataset is available on Hugging Face.
+
+👉 https://huggingface.co/datasets/chocolat-research/chocolat-btc-market-state-dataset
 © Chocolat Research Node
